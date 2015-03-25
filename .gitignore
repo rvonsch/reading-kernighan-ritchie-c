@@ -1,6 +1,9 @@
 # Xcode files
 *.xcodeproj
 
+# Disk storage system
+*.ds_store
+
 # Object files
 *.o
 *.ko
