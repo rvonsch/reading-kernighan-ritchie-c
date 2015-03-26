@@ -1,9 +1,12 @@
 # Xcode files
 *.xcodeproj
 
+<<<<<<< HEAD
 # Disk storage system
 *.ds_store
 
+=======
+>>>>>>> 79741e9500a853dd5a2b241efaf9bd4c50d2a5e8
 # Object files
 *.o
 *.ko
