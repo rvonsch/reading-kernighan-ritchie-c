@@ -6,3 +6,5 @@ I'm very new to programming and love it so far. The exercises in this book chall
 Usually the top of main.c will include a copy of the exercise text
 
 This is my first Git repository ever, and I'm learning a lot!
+
+Trying to push what I'm doing with my files to Github
