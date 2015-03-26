@@ -1,6 +1,6 @@
 # Reading-Kernighan-Ritchie-C
 
-Some of these executables use End of File, which if you don't know, can usually be signalled by hitting Control-D. To use some of the command line tools especially in [Chapter One](#chapter-one) and perhaps beyond make use of this very low level operation.
+Some of these executables use End of File, which if you don't know, can usually be signalled by hitting Control-D. To use some of the command line tools especially in [Chapter One](https://github.com/rvonsch/reading-kernighan-ritchie-c#chapter-one) and perhaps beyond make use of this very low level operation.
 
 ##### 1. Open executable
 
