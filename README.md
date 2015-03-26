@@ -13,4 +13,6 @@ Trying to push what I'm doing with my files to Github
 
 ### Chapter One
 
-Exercise 1-14 is by far my favorite one into the book. It suggests creating an OS X Command Line Tool that takes input and draws a histogram showing the frequency of lengths of characters. I chose to only count the alphabet. Of course, this could easily be modified to make a bar graph displaying alphanumeric data and symbols.
+Exercise 1-14 "Character Histogram" is by far my favorite one into the book. It suggests creating an OS X Command Line Tool that takes input and draws a histogram showing the frequency of lengths of characters. I chose to only count the alphabet. Of course, this could easily be modified to make a bar graph displaying alphanumeric data and symbols.
+
+Exercise 1-13 "Word Length Histogram" demonstrates my first crack at creating a horizontal histogram. It works but needs to handle large input data better. Character Histogram works better.
