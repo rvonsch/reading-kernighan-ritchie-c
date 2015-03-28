@@ -22,10 +22,13 @@ Find what exercise you're looking for below!
 
 ### Chapter One
 
-Exercise 1-13 "Word Length Histogram" demonstrates my first crack at creating a horizontal histogram. It works but needs to handle large input data better. Character Histogram works better.
+#### Exercise 1-13` "Word Length Histogram" demonstrates my first crack at creating a horizontal histogram. It works but needs to handle large input data better. Character Histogram works better.
 
-Exercise 1-14 "Character Histogram" is by far my favorite one into the book. It suggests creating an OS X Command Line Tool that takes input and draws a histogram showing the frequency of lengths of characters. I chose to only count the alphabet. Of course, this could easily be modified to make a bar graph displaying alphanumeric data and symbols.
+#### Exercise 1-14` "Character Histogram" is by far my favorite one into the book. It suggests creating an OS X Command Line Tool that takes input and draws a histogram showing the frequency of lengths of characters. I chose to only count the alphabet. Of course, this could easily be modified to make a bar graph displaying alphanumeric data and symbols.
 
-#### Disclaimer
+#### Exercise 1-19` "Reverse String" reverses the character string s. Use it to write a program that reverses its input a line at a time. I copied a previous function example in the book called getLine, then added my own function `void reverses(char[])`.
+&nbsp;&nbsp;&nbsp;&nbsp;I asked a question on StackOverflow and got downvoted, but some fellows' answers helped me understand C a bit more. In my `void reverses(char[])` function, the variable length array was not being defined using the Xcode compiler and debugger to test. I also was using a while loop instead of for. Thanks to some contributors, everything works on the initial commit.
+
+##### Disclaimer
 
 The Command Line Tools executable files may not be up to date and reflective of the .c files. If there is an easy way of versioning both execs and .c files please let me know. 
