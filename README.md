@@ -33,5 +33,12 @@ Find what exercise you're looking for below!
 
 &nbsp;&nbsp;&nbsp;&nbsp;I asked a question on StackOverflow and got downvoted, but some fellows' answers helped me understand C a bit more. In my `void reverses(char[])` function, the variable length array was not being defined using the Xcode compiler and debugger to test. I also was using a while loop instead of for. Thanks to some contributors, everything works on the initial commit.
 
+#### Exercise 1-20:
+"Detab" Replaces tabs in input with proper number of blanks. Assumes fixed set of tab stops every so many characters. It took me awhile to get the loops figured out, but now my program accepts one argument, an integer that sets the tabstop. For example, I can type into Terminal (after navigating to where the executable is) `./Detab 8`. Both Pages and TextEdit do not allow you to set the tab width in characters! Can you believe that?
+
+Testing was done with MacVim, since you can easily use `:set tabstop=5` to check
+
+Should input data be more than one line? Right now, if you run `./Detab`, type in a line of text using tabs, hit enter. Your line is printed with tabs replaced by spaces (default is 4 spaces). `Ctrl-D` ends the program.
+
 ##### Disclaimer
 The Command Line Tools executable files may not be up to date and reflective of the .c files. If there is an easy way of versioning both execs and .c files please let me know. 
